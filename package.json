@@ -1,0 +1,30 @@
+{
+  "name": "0-dan-amaliyot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "install": "npm install",
+    "dev": "nodemon index.js"
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ganisher0732/0-dan-Amaliyot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ganisher0732/0-dan-Amaliyot/issues"
+  },
+  "homepage": "https://github.com/Ganisher0732/0-dan-Amaliyot#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
